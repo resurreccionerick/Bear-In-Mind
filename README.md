@@ -4,6 +4,6 @@
 ## Programming Language & Database used:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript, react, firebase" />
+    <img src="https://skillicons.dev/icons?i=js, react, firebase" />
   </a>
 </p>
